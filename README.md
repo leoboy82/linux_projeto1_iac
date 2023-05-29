@@ -1,4 +1,4 @@
-# Detalhamento do Projeto de um Script de Criação de Diretórios e Usuários
+# Detalhamento do Projeto de um Script de Criação de Diretórios, Usuários e Permissões
 
 Este documento serve como um guia detalhado para o projeto de um script em Bash que cria diretórios, grupos de usuários, usuários e define permissões de diretórios.
 
